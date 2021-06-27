@@ -5,4 +5,5 @@ This uptick in a more active mode of travel versus riding the bus or driving a c
 One of the organizations making this access possible is Citi Bike; the nation's largest bike share program standing firm with 20,000 bicycles and 1,300 stations across Manhattan, Jersey City, Queens, Brooklyn, and the Bronx.
 Due to the global pandemic that began changing normal routines everywhere around the end of 2019, it was decided that this analysis would use Citi Bike Systems' data from March - June of 2019, to take a look into what petterns and trends are forming, and how effective the program has been in supporting the desires of the New York area population to get out there and ride.
 
-https://github.com/iamcmknox/bike_sharing_program/blob/main/sheet_from_dashboard.png?raw=true![image](https://user-images.githubusercontent.com/75462361/123554189-7d9b2680-d744-11eb-96ea-8745f5e4a3ff.png)
+<img width="1018" alt="sheet_from_dashboard" src="https://user-images.githubusercontent.com/75462361/123554215-91df2380-d744-11eb-9a34-ac5d1d8b19ed.png">
+
